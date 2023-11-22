@@ -31,6 +31,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaison" alt="msaison" /></a> </p>
 
 - 🌱 I’m currently studying **at [Epitech](https://www.epitech.eu/fr/)**
+- 👨‍💻 Currently working **at [Kosmos-Digital](https://www.kosmos-digital.com/)**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
